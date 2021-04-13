@@ -3,12 +3,15 @@
 <h2 align="center">i am a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h2>
 
 :confetti_ball:
+
 <p align="center">
   <strong><a href="https://www.zhihu.com/people/cheng-zhi-tu-shen">知乎</a></strong> |
   <strong><a href="https://juejin.cn/user/3280598427778392">掘金</a></strong>  |
 </p>
+
 :confetti_ball:
-[![dota](https://github.com/bontscho/dota2-chat-emoticons/blob/master/assets/images/bawl.gif)
+
+![dota](https://github.com/bontscho/dota2-chat-emoticons/blob/master/assets/images/bawl.gif)
 
 <a href="https://alili.tech"><p align="center"> Visitor count<br> </a>
 
