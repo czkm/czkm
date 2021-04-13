@@ -1,29 +1,24 @@
 
-<h1 align="center">Hi,HiHiHiHiHiHiHi！！ <a href="https://czkm.github.io/">czkm</a></h1>
-<h2 align="center">i am a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h2>
+<h1 align="center">Hi,HiHiHiHiHiHiHi！！ <a href="https://czkm.github.io/">czkm</a> </h1> 
 
-:confetti_ball:
+![wings](https://github.com/bontscho/dota2-chat-emoticons/blob/master/assets/images/team_wings_gold.gif) i am a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 ![df](https://github.com/bontscho/dota2-chat-emoticons/blob/master/assets/images/dac15_frog.gif)
+
 
 <p align="center">
   <strong><a href="https://www.zhihu.com/people/cheng-zhi-tu-shen">知乎</a></strong> |
   <strong><a href="https://juejin.cn/user/3280598427778392">掘金</a></strong>  |
 </p>
 
-:confetti_ball:
 
-![dota](https://github.com/bontscho/dota2-chat-emoticons/blob/master/assets/images/bawl.gif)
+![](https://komarev.com/ghpvc/?username=czkm&color=green) ![dota](https://github.com/bontscho/dota2-chat-emoticons/blob/master/assets/images/bawl.gif)
 
-<a href="https://alili.tech"><p align="center"> Visitor count<br> </a>
-
-![](https://komarev.com/ghpvc/?username=czkm&color=green)
-
+ 
 ##  [Welcome]
   <img src="https://github.com/czkm/img-folder/blob/master/newyear/img10.jpeg" align="center" height="300" /></a>
 
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
