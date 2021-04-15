@@ -16,6 +16,13 @@
 ##  Welcome
   <img src="https://github.com/czkm/img-folder/blob/master/newyear/img10.jpeg" align="center" height="300" /></a>
 
+## 𝗦𝘁𝗮𝘁𝘀
+
+<p align="left">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=czkm&show_icons=true&include_all_commits=true">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=czkm">
+</p>
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
