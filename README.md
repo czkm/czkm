@@ -15,7 +15,9 @@
  
 ##  Welcome
 <!-- https://github.com/czkm/img-folder/blob/master/newyear/img10.jpeg -->
-  <img src="https://raw.githubusercontent.com/ritaswc/ritaswc/master/dino.gif" align="center" height="300" /></a>
+<!-- https://raw.githubusercontent.com/ritaswc/ritaswc/master/dino.gif -->
+
+  <img src="https://github.com/czkm/img-folder/blob/master/newyear/img10.jpeg" align="center" height="300" /></a>
   
 
 ## 𝗦𝘁𝗮𝘁𝘀
