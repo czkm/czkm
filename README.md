@@ -17,7 +17,7 @@
 <!-- https://github.com/czkm/img-folder/blob/master/newyear/img10.jpeg -->
 <!-- https://raw.githubusercontent.com/ritaswc/ritaswc/master/dino.gif -->
 
-  <img src="https://github.com/czkm/czkm.github.io/blob/master/img/my/img12.jpg" align="center" height="300" style='margin:0 auto'/></a>
+  <img src="https://github.com/czkm/czkm.github.io/blob/master/img/my/img12.jpg" align="center" height="300" style='margin: 0 auto;display: block'/></a>
   
 
 ## 𝗦𝘁𝗮𝘁𝘀
